@@ -29,7 +29,7 @@ For this analysis is based on Cyclistic’s historical bike trip data, which is 
 
 -Data is in CSV format, making it easy to load and process.-
 
-## How the Data Helps Answer Our Question
+**How the Data Helps Answer Our Question**
 - Trip duration & frequency: Shows how casual riders and members use bikes differently.
 - Start and end locations: Helps identify popular routes and stations.
 - Bike type preference: Determines if casual riders prefer specific types of bikes.
