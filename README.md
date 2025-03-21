@@ -7,9 +7,9 @@ How do annual members and casual riders use Cyclistic bikes dierently?
 Cyclistic aims to increase its number of annual members, as they are more profitable than casual riders. To achieve this, the company needs to understand how annual members and casual riders use Cyclistic bikes differently. By identifying key differences in their riding behaviors, preferences, and usage patterns, the marketing team can develop targeted strategies to convert casual riders into annual members.
 
 **Key Stakeholders**
-Lily Moreno (Director of Marketing) – Leads the development of marketing campaigns and initiatives.
-Cyclistic Marketing Analytics Team – Responsible for data collection, analysis, and reporting.
-Cyclistic Executive Team – Reviews and approves the proposed marketing strategies.
+- Lily Moreno (Director of Marketing) – Leads the development of marketing campaigns and initiatives.
+- Cyclistic Marketing Analytics Team – Responsible for data collection, analysis, and reporting.
+- Cyclistic Executive Team – Reviews and approves the proposed marketing strategies.
 
 **How Insights Will Drive Business Decisions**
 - The findings will help design data-driven marketing strategies to encourage casual riders to become annual members.
@@ -29,9 +29,9 @@ For this analysis is based on Cyclistic’s historical bike trip data, which is 
 -Data is in CSV format, making it easy to load and process.-
 
 **How the Data Helps Answer Our Question**
-Trip duration & frequency: Shows how casual riders and members use bikes differently.
-Start and end locations: Helps identify popular routes and stations.
-Bike type preference: Determines if casual riders prefer specific types of bikes.
-Time patterns: Identifies peak usage times for casual riders vs. members.
+- Trip duration & frequency: Shows how casual riders and members use bikes differently.
+- Start and end locations: Helps identify popular routes and stations.
+- Bike type preference: Determines if casual riders prefer specific types of bikes.
+- Time patterns: Identifies peak usage times for casual riders vs. members.
 
 
